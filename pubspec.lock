@@ -91,7 +91,7 @@ packages:
   selphid_plugin:
     dependency: "direct main"
     description:
-      path: "../selphid_plugin"
+      path: "../lib/selphid_plugin"
       relative: true
     source: path
     version: "1.2.4"

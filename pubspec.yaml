@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   
   selphid_plugin:
-    path: ../selphid_plugin/
+    path: ../lib/selphid_plugin/
 
 dev_dependencies:
   flutter_test:
